@@ -30,7 +30,7 @@ The objective in this project is build a model that can detect fraud on the cred
 
 <img align = 'right' width = "250" height = "150" src = "figure/wine.jpg">**[Wine Quality Detection](https://github.com/FikriAbdillah01/wine_analysis.git)**
 
-Wine is a fermented grape drink. This project uses data sourced from the UCL repository. As the title suggests, the goal is to explore wine composition and predict its quality using a machine learning model. I've also created a [note]() containing an in-depth discussion of wine composition. I applied the ROC AUC curve to see the classification performance of machine learning.
+Wine is a fermented grape drink. This project uses data sourced from the UCL repository. As the title suggests, the goal is to explore wine composition and predict its quality using a machine learning model. I've also created a [note](https://github.com/FikriAbdillah01/wine_analysis/blob/e139ec184334ec2a9132a05e7d344c0d91c41bbe/Data%20Science%20project%20first%20ed.pdf) containing an in-depth discussion of wine composition. I applied the ROC AUC curve to see the classification performance of machine learning.
 
 <br />
 
