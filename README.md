@@ -30,7 +30,7 @@ The objective in this project is build a model that can detect fraud on the cred
 
 <img align = 'right' width = "250" height = "150" src = "figure/wine.jpg">**[Wine Quality Detection](https://github.com/FikriAbdillah01/wine_analysis.git)**
 
-Wine is a fermented grape drink. This project uses data sourced from the UCL repository. As the title suggests, the goal is to explore wine composition and predict its quality using a machine learning model. I've also created a [note](https://github.com/FikriAbdillah01/wine_analysis/blob/e139ec184334ec2a9132a05e7d344c0d91c41bbe/Data%20Science%20project%20first%20ed.pdf) containing an in-depth discussion of wine composition. I applied the ROC AUC curve to see the classification performance of machine learning.
+Wine is a fermented grape drink. This project uses data sourced from the UCL repository. As the title suggests, the goal is to explore wine composition and predict its quality using a machine learning model. I've also created a [note](https://github.com/FikriAbdillah01/wine_analysis/blob/31d2067c95035653b52e2776f829886447d7991d/Data%20Science%20project%20first%20ed.pdf) containing an in-depth discussion of wine composition. I applied the ROC AUC curve to see the classification performance of machine learning.
 
 <br />
 
@@ -44,7 +44,7 @@ Churn is a phenomenon or event where customers decide to leave a company's servi
 
 <img align = 'right' width = "250" height = "150" src = "figure/sentiment_analysis.png">**[AI Chatbot Sentiment Analysis in Google Play](https://github.com/FikriAbdillah01/ai-sentiment-analysis.git)**
 
-In this project, I analyzed the sentiment of an AI chatbot available on Google Play using over 10,000 data sets scraped using the google play scraper. This project included several preprocessing steps such as text cleaning, stopword removal, tokenization, data exploration, and applied sentiment analysis methods such as lexicon-based analysis and TextBlob.
+In this project, I analyzed the sentiment of an AI chatbot available on Google Play using over 2,000 data sets scraped using the google play scraper. This project included several preprocessing steps such as text cleaning, stopword removal, tokenization, data exploration, and applied sentiment analysis methods such as lexicon-based analysis and TextBlob.
 
 #
 
@@ -55,15 +55,19 @@ The goal of this project is to create a GDP prediction that robust to some macro
 
 ## Micro Projects
 ###  Applied Statistics and Machine Learning Model
-- [Weighted Average Ensemble](): Applied two machine learning models then combined.
-- [Priciple Component Analysis](): Apply PCA in breast cancer analysis
-- [Oversampling Method](): This method applied when there is an oversampling data. For instance credit card fraud.
-- [ROC AUC Curve](): This method is useful when 
+- [Weighted Average Ensemble](): Applied the combination of two ML models.
+- [Priciple Component Analysis](https://github.com/FikriAbdillah01/datascience-portfolio/blob/15c98f779321b33a3ecdf17fa9cbc0726eb70212/Machine%20Learning%20Experiment/Breast%20Cancer/Breast%20Cancer%20with%20PCA%20and%20hyperparameter%20%20tuning.ipynb): Apply PCA in breast cancer analysis
+- [Oversampling Method](): This method applied when there is an severe imbalance data.
+- [ROC AUC Curve](): A metrics to review the machine learning model in classification problem.
+- [AutoRegression Integrated Moving Average (ARIMA)](): Time series analysis method. 
 
 ### Challenges
 - [SQL Challenge Danny Dinner](https://github.com/FikriAbdillah01/datascience-portfolio/tree/5c4045146d7c76ce957219c5dabb9b7449cde36a/SQL/Dannys%20Dinner%20problems)
 - [SQL Challenge Pizza Runner](https://github.com/FikriAbdillah01/datascience-portfolio/tree/5c4045146d7c76ce957219c5dabb9b7449cde36a/SQL/Pizza%20Runner%20Problem)
--
+- [Kaggle Challenge: Titanic Problems](https://www.kaggle.com/code/fikriabdillah98/analyze-titanic-problems)
+- [Kaggle Challenge: Obesity Risk Prediction 1st]()
+- [Kaggle Challenge: Obesity Risk Prediction 2nd ](https://www.kaggle.com/code/fikriabdillah98/obesity-prediction-2)
+- [Gemini Challenge: Superstore Analysis with Spark]()
 
 ## Core Competencies
 
