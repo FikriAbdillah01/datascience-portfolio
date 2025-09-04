@@ -59,7 +59,7 @@ The goal of this project is to create a GDP prediction that robust to some macro
 - [Priciple Component Analysis](https://github.com/FikriAbdillah01/datascience-portfolio/blob/15c98f779321b33a3ecdf17fa9cbc0726eb70212/Machine%20Learning%20Experiment/Breast%20Cancer/Breast%20Cancer%20with%20PCA%20and%20hyperparameter%20%20tuning.ipynb): Apply PCA in breast cancer analysis
 - [Oversampling Method](): This method applied when there is an severe imbalance data.
 - [ROC AUC Curve](): A metrics to review the machine learning model in classification problem.
-- [AutoRegression Integrated Moving Average (ARIMA)](): Time series analysis method. 
+- [AutoRegression Integrated Moving Average (ARIMA)](https://github.com/FikriAbdillah01/datascience-portfolio/blob/94c1bbe9f1abf3d178ec0a441519c21bc034dc70/Energy%20Consumption%20Forecasting/FE_MW_Electricity%20univariate%20forecast.ipynb): Time series analysis method. 
 
 ### Challenges
 - [SQL Challenge Danny Dinner](https://github.com/FikriAbdillah01/datascience-portfolio/tree/5c4045146d7c76ce957219c5dabb9b7449cde36a/SQL/Dannys%20Dinner%20problems)
