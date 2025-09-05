@@ -55,7 +55,7 @@ The goal of this project is to create a GDP prediction that robust to some macro
 
 ## Micro Projects
 ###  Applied Statistics and Machine Learning Model
-- [Weighted Average Ensemble](): Applied the combination of two ML models.
+- [Weighted Average Ensemble](https://github.com/FikriAbdillah01/statistics/blob/7ab79c2c345d67eb0bb2db88b1f669946b76508d/linearity%20of%20two%20models/linearity%20of%20two%20models.ipynb): Applied the combination of two ML models.
 - [Priciple Component Analysis](https://github.com/FikriAbdillah01/datascience-portfolio/blob/15c98f779321b33a3ecdf17fa9cbc0726eb70212/Machine%20Learning%20Experiment/Breast%20Cancer/Breast%20Cancer%20with%20PCA%20and%20hyperparameter%20%20tuning.ipynb): Apply PCA in breast cancer analysis
 - [Oversampling Method](): This method applied when there is an severe imbalance data.
 - [ROC AUC Curve](): A metrics to review the machine learning model in classification problem.
