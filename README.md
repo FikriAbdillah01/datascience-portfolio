@@ -14,46 +14,29 @@ I'am Fikri. Physics graduate of Institut Teknologi Kalimantan. This portfolio is
 - [Quantum-Mechanical Brayton Engine for the Nonrelativistic Particle Trapped in a Symmetric Potential Box](https://jurnal.untan.ac.id/index.php/jpositron/article/view/40832)
 - [Quantum Brayton engine based on a single particle in the 2D symmetric potential well](https://pubs.aip.org/aip/acp/article/2234/1/040007/605190/Quantum-Brayton-engine-based-on-a-single-particle)
 
-## Projects
 
-<img align="right" width="250" height="150" src="figure/iowa_real_estate.jpg"> **[House Price Prediction](https://github.com/FikriAbdillah01/house-price-prediction)**
+## 📂 Projects Overview
 
-A data-driven exploration of how property features shape market value. This project aims to predict house prices using regression models trained on structured housing data. It covers data cleaning, feature engineering, data exploration, and model comparison (Random Forest, XGBoost), with a focus on clarity and tranparency.
+| Project Title | Status| Tools Used| Description |
+|-------------------------------|--------------| ---------------|-----------------------------|
+| [House Price Prediction](https://github.com/FikriAbdillah01/house-price-prediction)| Completed  | Python, Pandas, Scikit-learn, Seaborn, Matplotlib| This projects starts from a problem that some houses are unlabeled. A data-driven exploration of how property features shape market value. This project aims to predict house prices using regression models trained on structured housing data. It covers data cleaning, feature engineering, data exploration, and model comparison (Random Forest, XGBoost), with a focus on clarity and tranparency.| 
+|[Credit Card Fraud](https://github.com/FikriAbdillah01/credit-card-fraud-analysis) |Completed | Python, Pandas, Scikit-learn, Seaborn, Matplotlib| The objective in this project is build a model that can detect fraud on the credit card transaction. The dataset consist a 48 hours transaction with more than 20 columns. This project demonstrate the influence of the three preprocessing method such as raw, Imputation, and Isolation Forest on the accuracy of fraud detection.|
+|[Wine Analysis](https://github.com/FikriAbdillah01/wine_analysis.git) |Completed | Python, Pandas, Scikit-learn, Seaborn, Matplotlib| Wine is a fermented grape drink. However, what makes the drink quality is better that the others?. From the problem, the goal is to explore wine composition and predict its quality using a machine learning model. I've also created a [note](https://github.com/FikriAbdillah01/wine_analysis/blob/31d2067c95035653b52e2776f829886447d7991d/Data%20Science%20project%20first%20ed.pdf) containing an in-depth discussion of wine composition. I applied the ROC AUC curve to see the classification performance of machine learning.|
+|[Churn Analysis](https://github.com/FikriAbdillah01/customer-churn.git)| Completed| Pandas, Scikit-Learn, Python, Matplotlib, Seaborn, Looker| Churn is a phenomenon or event where customers decide to leave a company's services. This is common in telecommunications or technology companies that provide services. Churn analysis can help us identify patterns and factors that lead to customer churn. In this project, we will explore customer behaviour dataset. I also applied machine learning models to predict churn. The visualization from Looker can be seen [here]().|
+|[Gross Domestic Product Prediction](https://github.com/FikriAbdillah01/gdp-prediction)|Completed| Pandas, Scikit-Learn, Python, Matplotlib, Seaborn | The goal of this project is to create a GDP prediction that robust to some macroeconomic events. The data source from the Federal Reserve Economic Data (FRED) is retrieved using the API. This project utilizes several regression models, e.g. simple linear regression and regularized linear regression, with the data divided into several year groups to obtain the smallest prediction error score. |
+|[AI Chatbot Sentiment Analysis](https://github.com/FikriAbdillah01/gdp-prediction)|In Process| Pandas, Scikit-Learn, Python, Matplotlib, Seaborn | In this project, I analyzed the sentiment of an AI chatbot available on Google Play using over 2,000 data sets scraped using the google play scraper. This project included several preprocessing steps such as text cleaning, stopword removal, tokenization, data exploration, and applied sentiment analysis methods such as lexicon-based analysis and TextBlob.|
 
-#
-
-<img align = 'right' width = "250" height = "150" src = "figure/credit_card.jpg">**[Credit Card Fraud Detection](https://github.com/FikriAbdillah01/credit-card-fraud-analysis)**
-
-The objective in this project is build a model that can detect fraud on the credit card transaction. The dataset consist a 48 hours transaction with more than 20 columns. This project demonstrate the influence of the three preprocessing method such as raw, Imputation, and Isolation Forest on the accuracy of fraud detection.
-
-#
-
-<img align = 'right' width = "250" height = "150" src = "figure/wine.jpg">**[Wine Quality Detection](https://github.com/FikriAbdillah01/wine_analysis.git)**
-
-Wine is a fermented grape drink. This project uses data sourced from the UCL repository. As the title suggests, the goal is to explore wine composition and predict its quality using a machine learning model. I've also created a [note](https://github.com/FikriAbdillah01/wine_analysis/blob/31d2067c95035653b52e2776f829886447d7991d/Data%20Science%20project%20first%20ed.pdf) containing an in-depth discussion of wine composition. I applied the ROC AUC curve to see the classification performance of machine learning.
-
-<br />
-
-## On Going Projects
-
-<img align = 'right' width = "250" height = "150" src = "figure/churn_analysis.jpg">**[Churn Analysis](https://github.com/FikriAbdillah01/customer-churn.git)**
-
-Churn is a phenomenon or event where customers decide to leave a company's services. This is common in telecommunications or technology companies that provide services. Churn analysis can help us identify patterns and factors that lead to customer churn. In this project, we will explore customer behaviour dataset. I also applied machine learning models to predict churn.
-
-#
-
-<img align = 'right' width = "250" height = "150" src = "figure/sentiment_analysis.png">**[AI Chatbot Sentiment Analysis in Google Play](https://github.com/FikriAbdillah01/ai-sentiment-analysis.git)**
-
-In this project, I analyzed the sentiment of an AI chatbot available on Google Play using over 2,000 data sets scraped using the google play scraper. This project included several preprocessing steps such as text cleaning, stopword removal, tokenization, data exploration, and applied sentiment analysis methods such as lexicon-based analysis and TextBlob.
-
-#
-
-<img align = 'right' width = "250" height = "150" src = "figure/gdp_fig.jpg">**[Gross Domestic Product Prediction](https://github.com/FikriAbdillah01/gdp-prediction)**
-
-The goal of this project is to create a GDP prediction that robust to some macroeconomic events. The data source from the Federal Reserve Economic Data (FRED) is retrieved using the API. This project utilizes several regression models, e.g. simple linear regression and regularized linear regression, with the data divided into several year groups to obtain the smallest prediction error score.
-<br />
 
 ## Micro Projects
+
+|Topic| Description|
+|----|-------------|
+|[Weighted Average Ensemble](https://github.com/FikriAbdillah01/statistics/blob/7ab79c2c345d67eb0bb2db88b1f669946b76508d/linearity%20of%20two%20models/linearity%20of%20two%20models.ipynb)| Weighted Average Ensemble fundamentaly used for reduce error by combine two or more different classification model. The basic assumption is, every classifier model creates error when train and predict the data. The dummy project can be seen [here]()|
+|[Principle Component Analysis](https://github.com/FikriAbdillah01/datascience-portfolio/blob/15c98f779321b33a3ecdf17fa9cbc0726eb70212/Machine%20Learning%20Experiment/Breast%20Cancer/Breast%20Cancer%20with%20PCA%20and%20hyperparameter%20%20tuning.ipynb)| Principle Component Analysis is a statistical method to reduce dimensionality of complex dataset by transforming them into a new, smaller set that contains important data that called principle component. |
+|[SMOTE Method](https://github.com/FikriAbdillah01/credit-card-fraud-analysis)| SMOTE (Sythetic Minority Oversampling Technique) is a technique to balancing the severly unbalanced label in data. In the [Credit Card Detection](https://github.com/FikriAbdillah01/credit-card-fraud-analysis) project, the problem is the legit and fraud transactions are unbalaced, so the SMOTE used to solve it.|
+|[ROC AUC Curve]()|ROC is the metric to show the classification performance of the machine learning model. I apply this metric in wine project.|
+
+
 ###  Applied Statistics and Machine Learning Model
 - [Weighted Average Ensemble](https://github.com/FikriAbdillah01/statistics/blob/7ab79c2c345d67eb0bb2db88b1f669946b76508d/linearity%20of%20two%20models/linearity%20of%20two%20models.ipynb): Applied the combination of two ML models.
 - [Priciple Component Analysis](https://github.com/FikriAbdillah01/datascience-portfolio/blob/15c98f779321b33a3ecdf17fa9cbc0726eb70212/Machine%20Learning%20Experiment/Breast%20Cancer/Breast%20Cancer%20with%20PCA%20and%20hyperparameter%20%20tuning.ipynb): Apply PCA in breast cancer analysis
