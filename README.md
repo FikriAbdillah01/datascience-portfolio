@@ -11,7 +11,9 @@ I'am Fikri. Physics graduate of Institut Teknologi Kalimantan. This portfolio is
 ## Published Paper
 
 - [Quantum-Mechanical Brayton Engine based on a Boson Particle Inside Cubic Potential](https://iopscience.iop.org/article/10.1088/1742-6596/1726/1/012004)
+
 - [Quantum-Mechanical Brayton Engine for the Nonrelativistic Particle Trapped in a Symmetric Potential Box](https://jurnal.untan.ac.id/index.php/jpositron/article/view/40832)
+
 - [Quantum Brayton engine based on a single particle in the 2D symmetric potential well](https://pubs.aip.org/aip/acp/article/2234/1/040007/605190/Quantum-Brayton-engine-based-on-a-single-particle)
 
 
@@ -25,9 +27,10 @@ I'am Fikri. Physics graduate of Institut Teknologi Kalimantan. This portfolio is
 |[Churn Analysis](https://github.com/FikriAbdillah01/customer-churn.git)| Completed| Pandas, Scikit-Learn, Python, Matplotlib, Seaborn, Looker| Churn is a phenomenon or event where customers decide to leave a company's services. This is common in telecommunications or technology companies that provide services. Churn analysis can help us identify patterns and factors that lead to customer churn. In this project, we will explore customer behaviour dataset. I also applied machine learning models to predict churn. The visualization from Looker can be seen [here]().|
 |[Gross Domestic Product Prediction](https://github.com/FikriAbdillah01/gdp-prediction)|Completed| Pandas, Scikit-Learn, Python, Matplotlib, Seaborn | The goal of this project is to create a GDP prediction that robust to some macroeconomic events. The data source from the Federal Reserve Economic Data (FRED) is retrieved using the API. This project utilizes several regression models, e.g. simple linear regression and regularized linear regression, with the data divided into several year groups to obtain the smallest prediction error score. |
 |[AI Chatbot Sentiment Analysis](https://github.com/FikriAbdillah01/gdp-prediction)|In Process| Pandas, Scikit-Learn, Python, Matplotlib, Seaborn | In this project, I analyzed the sentiment of an AI chatbot available on Google Play using over 2,000 data sets scraped using the google play scraper. This project included several preprocessing steps such as text cleaning, stopword removal, tokenization, data exploration, and applied sentiment analysis methods such as lexicon-based analysis and TextBlob.|
+|[Bicycle Sales Analysis](https://public.tableau.com/views/BikeSales_16962270637830/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | Complete | Tableau and Excel | The project shows the interactive dashboard of sales of the bikes and its accessories. The key aspects of the dasboard are sales breakdown, trend analysis, and geographical insights. | 
 
 
-## Micro Projects
+## 🧪 Micro Projects
 
 |Topic| Description|
 |----|-------------|
@@ -35,20 +38,18 @@ I'am Fikri. Physics graduate of Institut Teknologi Kalimantan. This portfolio is
 |[Principle Component Analysis](https://github.com/FikriAbdillah01/datascience-portfolio/blob/15c98f779321b33a3ecdf17fa9cbc0726eb70212/Machine%20Learning%20Experiment/Breast%20Cancer/Breast%20Cancer%20with%20PCA%20and%20hyperparameter%20%20tuning.ipynb)| Principle Component Analysis is a statistical method to reduce dimensionality of complex dataset by transforming them into a new, smaller set that contains important data that called principle component. |
 |[SMOTE Method](https://github.com/FikriAbdillah01/credit-card-fraud-analysis)| SMOTE (Sythetic Minority Oversampling Technique) is a technique to balancing the severly unbalanced label in data. In the [Credit Card Detection](https://github.com/FikriAbdillah01/credit-card-fraud-analysis) project, the problem is the legit and fraud transactions are unbalaced, so the SMOTE used to solve it.|
 |[ROC AUC Curve]()|ROC is the metric to show the classification performance of the machine learning model. I apply this metric in wine project.|
+|[Autoregresison Integrated Moving Average](https://github.com/FikriAbdillah01/datascience-portfolio/blob/94c1bbe9f1abf3d178ec0a441519c21bc034dc70/Energy%20Consumption%20Forecasting/FE_MW_Electricity%20univariate%20forecast.ipynb)|ARIMA is the one of the technique to handle time series data. The model uses to analyze the past to forecast the future. ARIMA model consist of three key components, Autoregression, Integrated, and Moving Average. |
 
 
-###  Applied Statistics and Machine Learning Model
-- [Weighted Average Ensemble](https://github.com/FikriAbdillah01/statistics/blob/7ab79c2c345d67eb0bb2db88b1f669946b76508d/linearity%20of%20two%20models/linearity%20of%20two%20models.ipynb): Applied the combination of two ML models.
-- [Priciple Component Analysis](https://github.com/FikriAbdillah01/datascience-portfolio/blob/15c98f779321b33a3ecdf17fa9cbc0726eb70212/Machine%20Learning%20Experiment/Breast%20Cancer/Breast%20Cancer%20with%20PCA%20and%20hyperparameter%20%20tuning.ipynb): Apply PCA in breast cancer analysis
-- [Oversampling Method](): This method applied when there is an severe imbalance data.
-- [ROC AUC Curve](): A metrics to review the machine learning model in classification problem.
-- [AutoRegression Integrated Moving Average (ARIMA)](https://github.com/FikriAbdillah01/datascience-portfolio/blob/94c1bbe9f1abf3d178ec0a441519c21bc034dc70/Energy%20Consumption%20Forecasting/FE_MW_Electricity%20univariate%20forecast.ipynb): Time series analysis method. 
-
-### Challenges
+## 🧩 Challenges
 - [SQL Challenge Danny Dinner](https://github.com/FikriAbdillah01/datascience-portfolio/tree/5c4045146d7c76ce957219c5dabb9b7449cde36a/SQL/Dannys%20Dinner%20problems)
+
 - [SQL Challenge Pizza Runner](https://github.com/FikriAbdillah01/datascience-portfolio/tree/5c4045146d7c76ce957219c5dabb9b7449cde36a/SQL/Pizza%20Runner%20Problem)
+
 - [Kaggle Challenge: Titanic Problems](https://www.kaggle.com/code/fikriabdillah98/analyze-titanic-problems)
+
 - [Kaggle Challenge: Obesity Risk Prediction 1st](https://github.com/FikriAbdillah01/datascience-portfolio/blob/cbb2b572d96e0710ca59a0933d4df87f248ed192/Obesity%20Prediction/Obesity%20Prediction%20Ordinal%20Encoder%20XGBClassifier.ipynb)
+
 - [Kaggle Challenge: Obesity Risk Prediction 2nd ](https://www.kaggle.com/code/fikriabdillah98/obesity-prediction-2)
 
 ## Core Competencies
@@ -59,9 +60,9 @@ I'am Fikri. Physics graduate of Institut Teknologi Kalimantan. This portfolio is
 
 - **Languages**: Python, SQL
 
-## Certificate
+## 📜 Certificate
 
-### Data Science Certificate
+### 📊 Data Science Certificate
 
 - [Intermediate Machine Learning by Kaggle](certificate/Fikri%20Abdillah%20-%20Intermediate%20Machine%20Learning.png)
 
@@ -85,9 +86,12 @@ I'am Fikri. Physics graduate of Institut Teknologi Kalimantan. This portfolio is
 
 - [Introduction to Deep Learning by Kaggle](certificate/Fikri%20Abdillah%20-%20Intro%20to%20Deep%20Learning.png)
 
-### Physics Certificate
+### ⚛️ Physics Certificate
 
 - [International Conference of Condensed Matter Physics in Malang University]()
+
 - [International Conference of Theoretical Physiscs in Malang Universtiy]()
+
 - [Remote Experience for Young Engineers and Scientist]()
+
 - [BICAME]()
